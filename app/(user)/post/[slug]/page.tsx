@@ -5,6 +5,7 @@ import urlFor from "../../../../lib/urlFor";
 import { PortableText } from "@portabletext/react";
 import { Key, ReactElement, JSXElementConstructor, ReactFragment, ReactPortal } from "react";
 import { RitchTextComponents } from "../../../../components/RitchTextComponents";
+import { Post } from "../../../../typings";
 
 
 
